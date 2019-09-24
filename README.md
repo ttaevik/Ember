@@ -11,4 +11,4 @@ Variandid:
 2. Tehke oma näidis rakendus - veebileht, lihtne mäng vms.
 
 
-**Kodutöö esitamine käib githubis tehes sellest repost fork-i ja seejärel pull requesti, kui kodutöö on valmis. **
+**Kodutöö esitamine käib githubis tehes sellest repost fork-i ja seejärel pull requesti, kui kodutöö on valmis.**
